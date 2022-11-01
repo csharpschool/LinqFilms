@@ -1,4 +1,4 @@
 # Videos.App
-Är lösningsprojekltet.
+Är lösningsprojektet.
 # Starter.App
 Använd det här projektet när du gör LINQ/EF övningarna.
